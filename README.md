@@ -1,7 +1,10 @@
 # **C++ Primer** 5th Edition
 
-This repository contains solutions and code examples for the exercises from the book _C++ Primer, 5th Edition_.  
+This repository contains solutions and code examples for the exercises from the book [*C++ Primer, 5th Edition*](https://www.oreilly.com/library/view/c-primer-fifth/9780133053043/).  
 It is intended as a reference for learners and practitioners of modern C++.
+
+[comment]: #cover
+![Cover image](https://www.oreilly.com/covers/urn:orm:book:9780133053043/400w/)
 
 ### Requirements:
 
